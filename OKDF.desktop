@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=OKDF
+Comment=Key-derivation playground (pbkdf2/HKDF; scrypt/argon2id/bcrypt notes)
+Exec=OKDF
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OCipher;
+Keywords=OKDF;owlsec;security;
